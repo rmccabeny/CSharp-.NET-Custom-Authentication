@@ -1,5 +1,6 @@
 html {
   font-size: 14px;
+  font-family: 'Segoe UI';
 }
 
 @media (min-width: 768px) {
@@ -19,4 +20,15 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: #0026ff;
+  background-image: url("../images/olffice.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
 }
+
+.card {
+    margin-top: 5rem;
+}
+
